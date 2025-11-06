@@ -11,7 +11,8 @@
     "com.unity.modules.uielements": "1.0.0",
     "com.unity.render-pipelines.universal": "14.0.11",
     "com.cysharp.unitask": "2.5.7",
-    "jp.hadashikick.vcontainer": "1.17.0"
+    "jp.hadashikick.vcontainer": "1.17.0",
+    "com.unity.nuget.newtonsoft-json": "3.0.1"
   },
   "scopedRegistries": [
     {

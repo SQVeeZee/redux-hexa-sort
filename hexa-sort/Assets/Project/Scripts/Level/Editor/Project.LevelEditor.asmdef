@@ -1,0 +1,16 @@
+{
+    "name": "Project.LevelEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e8eb7540aed054a3db5896473b3789f7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
